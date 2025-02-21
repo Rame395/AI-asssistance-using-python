@@ -1,0 +1,2 @@
+gmail_password="Pineapple@17"
+openai_key="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"
